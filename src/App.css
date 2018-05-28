@@ -1,0 +1,44 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-size: 1rem;
+}
+
+.App {
+  padding: 0 15px;
+}
+
+.title {
+  text-align: center;
+  color: brown;
+  margin-bottom: 1rem;
+}
+
+ul,
+ol {
+  list-style-type: none;
+}
+
+dl,
+dt,
+h3,
+input,
+li {
+  margin-bottom: 0.5rem;
+}
+
+h3 {
+  color: cadetblue;
+}
+
+input,
+select {
+  box-sizing: border-box;
+  border-radius: 3px;
+  padding: 5px 10px;
+  font-size: 1rem;
+  width: 100%;
+}
